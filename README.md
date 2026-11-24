@@ -1,4 +1,5 @@
-<h1 align="center">Denis aka Wolf</h1>
+<h1 align="center">Mark Vane</h1>
+<p align="center"><sub>(Denis aka Wolf)</sub></p>
 <h3 align="center">Software Engineer · Independent Developer · Technology Explorer</h3>
 
 <p align="center">
