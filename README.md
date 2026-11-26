@@ -11,6 +11,8 @@
   <a href="https://github.com/denis-aka-wolf">GitHub</a>
 </p>
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=denis-aka-wolf&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api?username=denis-aka-wolf&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)
+
 ---
 
 ## 🇬🇧 About Me
