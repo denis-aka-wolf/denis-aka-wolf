@@ -11,8 +11,6 @@
   <a href="https://github.com/denis-aka-wolf">GitHub</a>
 </p>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=denis-aka-wolf&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api?username=denis-aka-wolf&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)
-
 ---
 
 ## 🇬🇧 About Me
@@ -94,3 +92,7 @@ I enjoy the full software development lifecycle: researching technologies and pr
 I believe software engineering is more than writing code. It is the process of understanding a problem, choosing the right technologies, designing a sound solution, and turning it into software that delivers practical value.
 
 Я считаю, что разработка программного обеспечения — это не только написание кода. Это умение понять задачу, выбрать подходящие технологии, спроектировать решение и превратить его в программный продукт, приносящий практическую пользу.
+
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=denis-aka-wolf&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api?username=denis-aka-wolf&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=denis-aka-wolf&hide_progress=true&langs_count=20&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=denis-aka-wolf&hide_progress=true&langs_count=20&theme=blue_navy)
